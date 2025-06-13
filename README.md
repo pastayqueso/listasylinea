@@ -1,9 +1,8 @@
 <html>
 <head>
-<tiltle> Listas y lineas </title>
 </head>
 <body>
->h1><center>Lineas</center><h1>
+<h1><center>Lineas</center><h1>
 <hr>
 <hr size="5" color="green">
 <hr width="50%" align="left">
