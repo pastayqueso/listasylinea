@@ -1,6 +1,4 @@
 <html>
-<head>
-</head>
 <body>
 <h1><center>Lineas</center><h1>
 <hr>
