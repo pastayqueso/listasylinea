@@ -6,7 +6,7 @@
 <hr>
 <hr size="5" color="green">
 <hr width="50%" align="left">
-<hr size="10" color="pink" width=30%" algn="rigth">
+<hr size="10" color="pink" width="30%" algn="rigth">
 
 <h1><center> listas</center></h1>
 <h2> listas ordenadas</h2> 
